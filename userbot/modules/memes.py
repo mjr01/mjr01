@@ -1266,8 +1266,8 @@ CMD_HELP.update({
 \nUsage: You retard !!\
 \n\n.zal\
 \nUsage: Invoke the feeling of chaos.\
-\n\nOof\
-\nUsage: Ooooof\
+\n\nWkw\
+\nUsage: Wkwkwk\
 \n\n.fp\
 \nUsage: Facepalm :P\
 \n\n.moon\
