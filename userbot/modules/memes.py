@@ -1042,7 +1042,7 @@ async def metoo(hahayes):
 
 @register(outgoing=True, pattern="^Wkwk$")
 @errors_handler
-async def Oof(e):
+async def Wkwk(e):
     t = "Wkwk"
     for j in range(15):
         t = t[:-1] + "wk"
