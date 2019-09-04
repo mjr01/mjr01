@@ -1040,12 +1040,12 @@ async def metoo(hahayes):
         await hahayes.edit(random.choice(METOOSTR))
 
 
-@register(outgoing=True, pattern="^Oof$")
+@register(outgoing=True, pattern="^Wkwk$")
 @errors_handler
 async def Oof(e):
-    t = "Oof"
+    t = "Wkwk"
     for j in range(15):
-        t = t[:-1] + "of"
+        t = t[:-1] + "wk"
         await e.edit(t)
 
 
