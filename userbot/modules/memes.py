@@ -1040,10 +1040,10 @@ async def metoo(hahayes):
         await hahayes.edit(random.choice(METOOSTR))
 
 
-@register(outgoing=True, pattern="^Wkwk$")
+@register(outgoing=True, pattern="^Wkw$")
 @errors_handler
-async def Wkwk(e):
-    t = "Wkwk"
+async def Wkw(e):
+    t = "Wkw"
     for j in range(15):
         t = t[:-1] + "wk"
         await e.edit(t)
